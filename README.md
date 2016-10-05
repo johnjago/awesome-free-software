@@ -13,7 +13,7 @@ Feel free to submit a pull request. The only requirements are that the software 
   - [Office](#office)
   - [Screencasting](#screencasting)
   - [Utilities](#utilities)
-  - [Version Control](version-control)
+  - [Version Control](#version-control)
   - [Virtualization](#virtualization)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
