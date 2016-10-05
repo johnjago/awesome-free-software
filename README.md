@@ -1,7 +1,24 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curated list of free (as in freedom) software.
+A curated list of free (as in freedom) software.
 
 Feel free to submit a pull request. The only requirements are that the software must be [free software](https://www.gnu.org/philosophy/free-sw.html) and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+
+## Contents
+  - [Audio](#audio)
+  - [Development](#development)
+  - [Command Line Interfaces](#command-line-interfaces)
+  - [Graphics](#graphics)
+  - [Text Editors](#text-editors)
+  - [File Management](#file-management)
+  - [Office](#office)
+  - [Screencasting](#screencasting)
+  - [Utilities](#utilities)
+  - [Version Control](version-control)
+  - [Virtualization](#virtualization)
+  - [Web Browsers](#web-browsers)
+  - [Web Servers](#web-servers)
+  
+---
 
 ## Audio
   - [Audacity](http://www.audacityteam.org/) - sound recording and post-processing. (Linux, macOS, Windows)
@@ -10,7 +27,8 @@ Feel free to submit a pull request. The only requirements are that the software 
   - [Eclipse](https://www.eclipse.org/) - integrated development environment for Java and more. (Linux, macOS, Windows)
 
 ## Command Line Interfaces
-  - [Cygwin](http://cygwin.com/) - creates a Unix-like environment on Windows, providing access to a number of tools commonly found on Linux systems. (Windows)
+  - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. (Windows)
+  - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. (Windows)
 
 ## Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation (Linux, macOS, Windows)
@@ -31,10 +49,18 @@ Feel free to submit a pull request. The only requirements are that the software 
   - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - document reader with support for many formats. (Windows)
 
 ## Screencasting
-  - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - a highly customisable GUI screencasting program. (Linux)
+  - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - highly customisable GUI screencasting program. (Linux)
+
+## Utilities
+  - [PWGen](http://pwgen-win.sourceforge.net/) - secure password generator. (Windows)
+  - [Rufus](http://rufus.akeo.ie/) - bootable USB installation media creator. (Windows)
+  - [Wireshark](https://www.wireshark.org/) - packet analyzer for network troubleshooting and analysis. (Linux, macOS, Windows)
 
 ## Version Control
   - [Git](https://git-scm.com/) - fast, distributed version control providing full project history without the need for a central server. (Linux, macOS, Windows)
+  
+## Virtualization
+  - [VirtualBox](https://www.virtualbox.org/) - feature rich virtualization tools with support for many operating systems. (Linux, macOS, Windows)
 
 ## Web Browsers
   - [Firefox](https://mozilla.org/firefox) - browser in support of an Open Web. (Linux, macOS, Windows)
