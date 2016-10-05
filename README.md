@@ -1,8 +1,6 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list of free (as in freedom) software.
 
-*A work in progress.*
-
 Feel free to submit a pull request. The only requirements are that the software must be [free software](https://www.gnu.org/philosophy/free-sw.html) and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 ## Audio
@@ -10,6 +8,9 @@ Feel free to submit a pull request. The only requirements are that the software 
 
 ## Development
   - [Eclipse](https://www.eclipse.org/) - integrated development environment for Java and more. (Linux, macOS, Windows)
+
+## Command Line Interfaces
+  - [Cygwin](http://cygwin.com/) - creates a Unix-like environment on Windows, providing access to a number of tools commonly found on Linux systems. (Windows)
 
 ## Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation (Linux, macOS, Windows)
@@ -22,14 +23,22 @@ Feel free to submit a pull request. The only requirements are that the software 
 
 ## File Management
   - [7-Zip](http://7-zip.org/) - file archiver for creating and opening compressed files. (Linux, macOS, Windows)
+  - [FileZilla](https://filezilla-project.org/) - a universal FTP solution. (Linux, macOS, Windows)
   - [qBittorrent](http://qbittorrent.org/) - easy to use BitTorrent client. (Linux, macOS, Windows)
 
 ## Office
   - [LibreOffice](https://www.libreoffice.org/) - office suite with word processor, spreadsheet, and presentation programs. (Linux, macOS, Windows)
   - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - document reader with support for many formats. (Windows)
 
+## Screencasting
+  - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - a highly customisable GUI screencasting program. (Linux)
+
+## Version Control
+  - [Git](https://git-scm.com/) - fast, distributed version control providing full project history without the need for a central server. (Linux, macOS, Windows)
+
 ## Web Browsers
   - [Firefox](https://mozilla.org/firefox) - browser in support of an Open Web. (Linux, macOS, Windows)
+  - [Waterfox](https://www.waterfoxproject.org/) - fork of Firefox that is focused on performance, 64-bit systems, and data privacy. (macOS, Windows)
 
-## Web Server
+## Web Servers
   - [Apache HTTP Server](https://httpd.apache.org/) - secure, efficient, and extensible web server. (Linux, Windows)
