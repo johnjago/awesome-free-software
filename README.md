@@ -1,7 +1,16 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of free (as in freedom) software.
+A curated list of free software.
 
-Feel free to submit a pull request. The only requirements are that the software must be [free software](https://www.gnu.org/philosophy/free-sw.html) and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+What is free software? "Free" as in cost? Open source? Not quite. In order for a piece of software to be truly free, its license must allow users to run, copy, distribute, study, change, and improve the software without imposing excessive restrictions.
+
+The Free Software Foundation defines [free software](https://www.gnu.org/philosophy/free-sw.html) as software that gives you:
+
+- the freedom to run the program as you wish, for any purpose.
+- the freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this. 
+- the freedom to redistribute copies so you can help your neighbor.
+- the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from the changes. Access to the source code is a precondition for this.
+
+Feel free to submit a pull request. The only requirements are that the software must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 ## Contents
   - [Audio](#audio)
