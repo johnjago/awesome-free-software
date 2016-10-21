@@ -10,7 +10,13 @@ The Free Software Foundation defines [free software](https://www.gnu.org/philoso
 - the freedom to redistribute copies so you can help your neighbor.
 - the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from the changes. Access to the source code is a precondition for this.
 
-Feel free to submit a pull request. The only requirements are that the software must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+Free software can be licensed in a number of ways. The [GNU GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) encourages propagation of free software, but free software can also be [unlicensed](http://unlicense.org/).
+
+In other words, software that falls under any of the three boxes on the left is good for this list. Software from the right two boxes is not.
+
+![software license chart](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/799px-Software-license-classification-mark-webbink.svg.png)
+
+Feel free to submit a pull request. The only requirement is that the software must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 ## Contents
   - [Audio](#audio)
