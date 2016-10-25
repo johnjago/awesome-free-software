@@ -51,8 +51,9 @@ Feel free to submit a pull request. The only requirement is that the software mu
   - [VLC](http://www.videolan.org/vlc/) - multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
 
 ## Text Editors
- - [Atom](https://atom.io/) - text and source code editor. (Linux, macOS, Windows)
- - [Notepad++](https://notepad-plus-plus.org/) - another text and source code editor. (Windows)
+ - [Atom](https://atom.io/) - hackable text and source code editor. (Linux, macOS, Windows)
+ - [GNU nano](https://www.nano-editor.org/) - simple text editor for the command line. (Linux)
+ - [Notepad++](https://notepad-plus-plus.org/) - extensible text and source code editor. (Windows)
 
 ## File Management
   - [7-Zip](http://7-zip.org/) - file archiver for creating and opening compressed files. (Linux, macOS, Windows)
@@ -83,3 +84,4 @@ Feel free to submit a pull request. The only requirement is that the software mu
 
 ## Web Servers
   - [Apache HTTP Server](https://httpd.apache.org/) - secure, efficient, and extensible web server. (Linux, Windows)
+  - [ZeroNet](https://zeronet.io/) - decentralized websites using Bitcoin cryptography and the BitTorrent network. (Linux, macOS, Windows)
