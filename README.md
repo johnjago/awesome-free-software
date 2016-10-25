@@ -46,7 +46,7 @@ Feel free to submit a pull request. The only requirement is that the software mu
   - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. (Windows)
 
 ## Graphics
-  - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation (Linux, macOS, Windows)
+  - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. (Linux, macOS, Windows)
   - [GIMP](http://www.gimp.org/) - image manipulation software. (Linux, macOS, Windows)
   - [VLC](http://www.videolan.org/vlc/) - multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
 
