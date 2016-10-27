@@ -36,55 +36,55 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 ---
 
 ## Audio
-  - [Audacity](http://www.audacityteam.org/) - sound recording and post-processing. (Linux, macOS, Windows)
+  - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. (Linux, macOS, Windows)
 
 ## Development
-  - [Eclipse](https://www.eclipse.org/) - integrated development environment for Java and more. (Linux, macOS, Windows)
+  - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. (Linux, macOS, Windows)
 
 ## Command Line Interfaces
   - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. (Windows)
-  - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. (Windows)
+  - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. (Windows)
 
 ## Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. (Linux, macOS, Windows)
-  - [GIMP](http://www.gimp.org/) - image manipulation software. (Linux, macOS, Windows)
-  - [VLC](http://www.videolan.org/vlc/) - multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
+  - [GIMP](http://www.gimp.org/) - Image manipulation software. (Linux, macOS, Windows)
+  - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
 
 ## Text Editors
- - [Atom](https://atom.io/) - hackable text and source code editor. (Linux, macOS, Windows)
- - [GNU nano](https://www.nano-editor.org/) - simple text editor for the command line. (Linux)
- - [Notepad++](https://notepad-plus-plus.org/) - extensible text and source code editor. (Windows)
+ - [Atom](https://atom.io/) - Hackable text and source code editor. (Linux, macOS, Windows)
+ - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. (Linux)
+ - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. (Windows)
 
 ## File Management
-  - [7-Zip](http://7-zip.org/) - file archiver for creating and opening compressed files. (Linux, macOS, Windows)
-  - [FileZilla](https://filezilla-project.org/) - a universal FTP solution. (Linux, macOS, Windows)
-  - [qBittorrent](http://qbittorrent.org/) - easy to use BitTorrent client. (Linux, macOS, Windows)
+  - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. (Linux, macOS, Windows)
+  - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. (Linux, macOS, Windows)
+  - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. (Linux, macOS, Windows)
 
 ## Office
-  - [LibreOffice](https://www.libreoffice.org/) - office suite with word processor, spreadsheet, and presentation programs. (Linux, macOS, Windows)
-  - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - document reader with support for many formats. (Windows)
+  - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. (Linux, macOS, Windows)
+  - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - Document reader with support for many formats. (Windows)
 
 ## Screencasting
-  - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - highly customisable GUI screencasting program. (Linux)
+  - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. (Linux)
 
 ## Utilities
-  - [PWGen](http://pwgen-win.sourceforge.net/) - secure password generator. (Windows)
-  - [Rufus](http://rufus.akeo.ie/) - bootable USB installation media creator. (Windows)
-  - [Wireshark](https://www.wireshark.org/) - packet analyzer for network troubleshooting and analysis. (Linux, macOS, Windows)
+  - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. (Windows)
+  - [Rufus](http://rufus.akeo.ie/) - Bootable USB installation media creator. (Windows)
+  - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. (Linux, macOS, Windows)
 
 ## Version Control
-  - [Git](https://git-scm.com/) - fast, distributed version control providing full project history without the need for a central server. (Linux, macOS, Windows)
+  - [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server. (Linux, macOS, Windows)
   
 ## Virtualization
-  - [VirtualBox](https://www.virtualbox.org/) - feature rich virtualization tools with support for many operating systems. (Linux, macOS, Windows)
+  - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. (Linux, macOS, Windows)
 
 ## Web Browsers
-  - [Firefox](https://mozilla.org/firefox) - browser in support of an Open Web. (Linux, macOS, Windows)
-  - [Waterfox](https://www.waterfoxproject.org/) - fork of Firefox that is focused on performance, 64-bit systems, and data privacy. (macOS, Windows)
+  - [Firefox](https://mozilla.org/firefox) - Browser in support of an Open Web. (Linux, macOS, Windows)
+  - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. (macOS, Windows)
 
 ## Web Servers
-  - [Apache HTTP Server](https://httpd.apache.org/) - secure, efficient, and extensible web server. (Linux, Windows)
-  - [ZeroNet](https://zeronet.io/) - decentralized websites using Bitcoin cryptography and the BitTorrent network. (Linux, macOS, Windows)
+  - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. (Linux, Windows)
+  - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. (Linux, macOS, Windows)
 
 ---
 
