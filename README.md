@@ -16,7 +16,7 @@ In other words, software that falls under any of the three boxes on the left is 
 
 ![software license chart](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/799px-Software-license-classification-mark-webbink.svg.png)
 
-Feel free to submit a pull request. The only requirement is that the software must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+Feel free to submit a pull request. The software that you add must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md). See [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md) for more information.
 
 ## Contents
   - [Audio](#audio)
@@ -85,3 +85,8 @@ Feel free to submit a pull request. The only requirement is that the software mu
 ## Web Servers
   - [Apache HTTP Server](https://httpd.apache.org/) - secure, efficient, and extensible web server. (Linux, Windows)
   - [ZeroNet](https://zeronet.io/) - decentralized websites using Bitcoin cryptography and the BitTorrent network. (Linux, macOS, Windows)
+
+---
+
+## License
+![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
