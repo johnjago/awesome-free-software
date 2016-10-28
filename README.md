@@ -22,11 +22,12 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Audio](#audio)
   - [Development](#development)
   - [Command Line Interfaces](#command-line-interfaces)
-  - [Graphics](#graphics)
-  - [Text Editors](#text-editors)
   - [File Management](#file-management)
+  - [Graphics](#graphics)
+  - [Miscellaneous](#miscellaneous)
   - [Office](#office)
   - [Screencasting](#screencasting)
+  - [Text Editors](#text-editors)
   - [Utilities](#utilities)
   - [Version Control](#version-control)
   - [Virtualization](#virtualization)
@@ -45,20 +46,17 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. (Windows)
   - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. (Windows)
 
-## Graphics
-  - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. (Linux, macOS, Windows)
-  - [GIMP](http://www.gimp.org/) - Image manipulation software. (Linux, macOS, Windows)
-  - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
-
-## Text Editors
- - [Atom](https://atom.io/) - Hackable text and source code editor. (Linux, macOS, Windows)
- - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. (Linux)
- - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. (Windows)
-
 ## File Management
   - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. (Linux, macOS, Windows)
   - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. (Linux, macOS, Windows)
+
+## Graphics
+  - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. (Linux, macOS, Windows)
+  - [GIMP](http://www.gimp.org/) - Image manipulation software. (Linux, macOS, Windows)
+
+## Miscellaneous
   - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. (Linux, macOS, Windows)
+  - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. (Linux, macOS, Windows)
 
 ## Office
   - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. (Linux, macOS, Windows)
@@ -67,6 +65,11 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   
 ## Screencasting
   - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. (Linux)
+
+## Text Editors
+  - [Atom](https://atom.io/) - Hackable text and source code editor. (Linux, macOS, Windows)
+  - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. (Linux)
+  - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. (Windows)
 
 ## Utilities
   - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. (Windows)
