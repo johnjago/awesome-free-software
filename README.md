@@ -16,7 +16,7 @@ In other words, software that falls under any of the three boxes on the left is 
 
 ![software license chart](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/799px-Software-license-classification-mark-webbink.svg.png)
 
-Feel free to submit a pull request. The software that you add must strictly adhere to the above definition, and you must have used it enough to know that it is [awseome](https://github.com/sindresorhus/awesome/blob/master/awesome.md). See [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md) for more information.
+Feel free to submit a pull request. The software that you add must strictly adhere to the above definition, and you must have used it enough to know that it is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md). See [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md) for more information.
 
 ## Contents
   - [Audio](#audio)
@@ -63,7 +63,8 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 ## Office
   - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. (Linux, macOS, Windows)
   - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - Document reader with support for many formats. (Windows)
-
+  - [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. (Linux)
+  
 ## Screencasting
   - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. (Linux)
 
