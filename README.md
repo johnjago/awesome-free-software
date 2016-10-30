@@ -10,7 +10,7 @@ The Free Software Foundation defines [free software](https://www.gnu.org/philoso
 - the freedom to redistribute copies so you can help your neighbor.
 - the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from the changes. Access to the source code is a precondition for this.
 
-Free software can be licensed in a number of ways. The [GNU GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) encourages propagation of free software, but free software can also be [unlicensed](http://unlicense.org/).
+Free software can be licensed in a number of ways. The [GNU GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) encourages propagation of free software, but free software can also be [unlicensed](http://unlicense.org/). Read more about the licenses [here](http://choosealicense.com/licenses/). Most of the software below should have one of the licenses listed in the [appendix](http://choosealicense.com/appendix/).
 
 In other words, software that falls under any of the three boxes on the left is good for this list. Software from the right two boxes is not.
 
