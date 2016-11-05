@@ -72,23 +72,23 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. ([GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
 
 ## Utilities
-  - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator.
-  - [Rufus](http://rufus.akeo.ie/) - Bootable USB installation media creator.
-  - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis.
+  - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. ([GNU GPLv2](http://pwgen-win.sourceforge.net/downloads.html))
+  - [Rufus](http://rufus.akeo.ie/) - Bootable USB installation media creator. ([GNU GPLv3](https://raw.githubusercontent.com/pbatard/rufus/master/LICENSE.txt))
+  - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 
 ## Version Control
-  - [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server.
+  - [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server. ([GNU GPLv2](https://git-scm.com/about/free-and-open-source))
   
 ## Virtualization
-  - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems.
+  - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
 
 ## Web Browsers
-  - [Firefox](https://mozilla.org/firefox) - Browser in support of an Open Web.
-  - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy.
+  - [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
+  - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. ([MPL 2.0](https://raw.githubusercontent.com/MrAlex94/Waterfox/master/LICENSE.md))
 
 ## Web Servers
-  - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server.
-  - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network.
+  - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
+  - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
 ---
 
