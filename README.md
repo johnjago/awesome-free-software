@@ -93,4 +93,4 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 ---
 
 ## License
-![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
