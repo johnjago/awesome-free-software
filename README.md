@@ -21,7 +21,7 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 ## Contents
   - [Audio](#audio)
   - [Development](#development)
-  - [Command Line Interfaces](#command-line-interfaces)
+  - [Command Line Tools](#command-line-tools)
   - [File Management](#file-management)
   - [Graphics](#graphics)
   - [Miscellaneous](#miscellaneous)
@@ -42,9 +42,10 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 ## Development
   - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 
-## Command Line Interfaces
+## Command Line Tools
   - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
   - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
+  - [ranger](http://ranger.nongnu.org/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 
 ## File Management
   - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
