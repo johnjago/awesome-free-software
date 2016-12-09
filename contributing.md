@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Use [title-casing](http://titlecapitalization.com)
-- Use the following format: `[Software Name](link) - describe it here. (Operating System)`
+- Use the following format: `[Software Name](link) - describe it here. [License](link)`
 - Link additions should be added in alphabetical in the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
