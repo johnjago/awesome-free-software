@@ -26,7 +26,7 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Graphics](#graphics)
   - [Miscellaneous](#miscellaneous)
   - [Office](#office)
-  - [Scientific Work](#scientificwork)
+  - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
   - [Utilities](#utilities)
