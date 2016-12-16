@@ -26,6 +26,7 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Graphics](#graphics)
   - [Miscellaneous](#miscellaneous)
   - [Office](#office)
+  - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
   - [Utilities](#utilities)
@@ -63,6 +64,10 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
   - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - Document reader with support for many formats. ([GNU GPLv3](https://raw.githubusercontent.com/sumatrapdfreader/sumatrapdf/master/COPYING))
   - [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([Custom](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
+  
+## Scientific Work
+  - [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
+  - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
   
 ## Screencasting
   - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
