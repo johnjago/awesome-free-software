@@ -34,8 +34,6 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Virtualization](#virtualization)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
-  
----
 
 ## Audio
   - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
@@ -96,8 +94,6 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
   - [nginx](https://nginx.org/) - A HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
   - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
-
----
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
