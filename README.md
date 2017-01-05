@@ -23,14 +23,15 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [Development](#development)
   - [Command Line Tools](#command-line-tools)
   - [File Management](#file-management)
+  - [File Sharing](#file-sharing)
   - [Graphics](#graphics)
-  - [Miscellaneous](#miscellaneous)
   - [Office](#office)
   - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
   - [Utilities](#utilities)
   - [Version Control](#version-control)
+  - [Video](#video)
   - [Virtualization](#virtualization)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
@@ -50,13 +51,12 @@ Feel free to submit a pull request. The software that you add must strictly adhe
   - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
   - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. ([GNU GPLv2+](https://filezilla-project.org/license.php))
 
+## File Sharing
+  - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
+
 ## Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
   - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
-
-## Miscellaneous
-  - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
-  - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 
 ## Office
   - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
@@ -83,6 +83,10 @@ Feel free to submit a pull request. The software that you add must strictly adhe
 
 ## Version Control
   - [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server. ([GNU GPLv2](https://git-scm.com/about/free-and-open-source))
+  
+## Video
+  - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
+  - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
   
 ## Virtualization
   - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
