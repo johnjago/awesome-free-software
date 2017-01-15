@@ -1,22 +1,9 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of free software.
+A curated list of awesome free software.
 
-What is free software? "Free" as in cost? Open source? Not quite. In order for a piece of software to be truly free, its license must allow users to run, copy, distribute, study, change, and improve the software without imposing excessive restrictions.
+[What is free software?](about.md)
 
-The Free Software Foundation defines [free software](https://www.gnu.org/philosophy/free-sw.html) as software that gives you:
-
-- the freedom to run the program as you wish, for any purpose.
-- the freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this. 
-- the freedom to redistribute copies so you can help your neighbor.
-- the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from the changes. Access to the source code is a precondition for this.
-
-Free software can be licensed in a number of ways. The [GNU GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) encourages propagation of free software, but free software can also be [unlicensed](http://unlicense.org/). Read more about the licenses [here](http://choosealicense.com/licenses/). Most of the software below should have one of the licenses listed in the [appendix](http://choosealicense.com/appendix/).
-
-In other words, software that falls under any of the three boxes on the left is good for this list. Software from the right two boxes is not.
-
-![software license chart](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/799px-Software-license-classification-mark-webbink.svg.png)
-
-Feel free to submit a pull request. The software that you add must strictly adhere to the above definition, and you must have used it enough to know that it is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md). See [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md) for more information.
+Feel free to submit a pull request! The software that you add must strictly adhere to this [definition](about.md) of free, and you must follow the [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md).
 
 ## Contents
   - [Audio](#audio)
