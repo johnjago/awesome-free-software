@@ -3,7 +3,7 @@ A curated list of awesome free software and free software resources.
 
 > [What is free software?](about.md)
 
-Feel free to submit a pull request!
+Feel free to submit a pull request.
 
 Any software that you add must adhere to this [definition](about.md) of free, and you must follow the [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md). Thank you!
 
