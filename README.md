@@ -27,6 +27,7 @@ Any software that you add must adhere to this [definition](about.md) of free, an
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
 - [Resources](#resources)
+  - [Articles](#articles)
   - [Discovery](#discovery)
   - [Organizations](#organizations)
   - [Talks](#talks)
@@ -105,15 +106,15 @@ Any software that you add must adhere to this [definition](about.md) of free, an
 ### Articles
   - [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 
+### Discovery
+  - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
+
 ### Organizations
   - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
   - [FSF India](http://fsf.org.in/) - Site for Free Software Foundation India.
   - [FSFE](https://fsfe.org/) - European sister site for the FSF.
   - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
   - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
-  
-### Discovery
-  - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
   
 ### Talks
   - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
