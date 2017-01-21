@@ -24,6 +24,7 @@ Any software that you add must adhere to this [definition](about.md) of free, an
   - [Version Control](#version-control)
   - [Video](#video)
   - [Virtualization](#virtualization)
+  - [Web Applications](#web-applications)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
 - [Resources](#resources)
@@ -91,6 +92,10 @@ Any software that you add must adhere to this [definition](about.md) of free, an
   
 ### Virtualization
   - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
+
+### Web Applications
+  - [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
+  - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Browsers
   - [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
