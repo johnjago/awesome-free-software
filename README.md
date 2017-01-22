@@ -3,18 +3,17 @@ A curated list of awesome free software and free software resources.
 
 > [What is free software?](about.md)
 
-Feel free to submit a pull request.
-
-Any software that you add must adhere to this [definition](about.md) of free, and you must follow the [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md). Thank you!
+Any software that you add must adhere to this [definition](about.md) of free. Please follow the [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md). Thank you!
 
 ## Contents
 - [Applications](#applications)
   - [Audio](#audio)
-  - [Development](#development)
   - [Command Line Tools](#command-line-tools)
+  - [Communication](#communication)
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
   - [Graphics](#graphics)
+  - [Integrated Development Environments](#integrated-development-environments)
   - [Office](#office)
   - [Payments](#payments)
   - [Scientific Work](#scientific-work)
@@ -38,13 +37,13 @@ Any software that you add must adhere to this [definition](about.md) of free, an
 ### Audio
   - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 
-### Development
-  - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
-
 ### Command Line Tools
   - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
   - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
   - [ranger](http://ranger.nongnu.org/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+
+### Communication
+  - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
 
 ### File Management
   - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
@@ -56,6 +55,9 @@ Any software that you add must adhere to this [definition](about.md) of free, an
 ### Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
   - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
+
+### Integrated Development Environments
+  - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 
 ### Office
   - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
