@@ -126,6 +126,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   
 ### Talks
   - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+  - [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
