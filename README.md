@@ -95,6 +95,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   
 ### Virtualization
   - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
+  - [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License
 
 ### Web Applications
   - [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
