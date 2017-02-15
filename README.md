@@ -79,6 +79,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   - [Atom](https://atom.io/) - Hackable text and source code editor. ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
   - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. ([GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
   - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. ([GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
+  - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 
 ### Utilities
   - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. ([GNU GPLv2](http://pwgen-win.sourceforge.net/downloads.html))
@@ -94,6 +95,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   
 ### Virtualization
   - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
+  - [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License
 
 ### Web Applications
   - [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
