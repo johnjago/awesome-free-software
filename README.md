@@ -127,9 +127,10 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
   
 ### Talks
-  - [Eben Moglen: How I discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
-  - [Free Software for Digital India - Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
-  - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+  - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
+  - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
+  - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (En Español)
+  - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
   - [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
   - [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
   - [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
