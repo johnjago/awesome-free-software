@@ -131,6 +131,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
   - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (En Español)
   - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+  - [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
   - [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
   - [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
   - [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
