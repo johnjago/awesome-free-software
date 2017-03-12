@@ -55,6 +55,9 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
 ### Graphics
   - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
   - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
+  - [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
+  - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
+  - [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
 ### Integrated Development Environments
   - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
@@ -102,6 +105,7 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Browsers
+  - [Chromium](https://www.chromium.org/Home) - The open-source version of one of the world's most popular web browsers. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
   - [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
   - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. ([MPL 2.0](https://raw.githubusercontent.com/MrAlex94/Waterfox/master/LICENSE.md))
 
