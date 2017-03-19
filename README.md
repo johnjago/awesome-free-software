@@ -1,15 +1,12 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p align="center">
-  <br>
-  <img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU">
-  <br>
-  <br>
-</p>
-
 A curated list of awesome free software and free software resources.
 
 > [What is free software?](https://www.gnu.org/philosophy/free-sw.html)
+
+<p align="center">
+  <img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU">
+</p>
 
 ## Contents
 - [Applications](#applications)
