@@ -1,4 +1,4 @@
-#What exactly is free software?
+# What exactly is free software?
 Free software is not just free as in cost or open as in open source. In order for a piece of software to be truly free, its license must allow users to run, copy, distribute, study, change, and improve the software without imposing excessive restrictions.
 
 The Free Software Foundation defines [free software](https://www.gnu.org/philosophy/free-sw.html) as software that gives you:
