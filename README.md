@@ -1,9 +1,15 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+<p align="center">
+  <br>
+  <img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU">
+  <br>
+  <br>
+</p>
+
 A curated list of awesome free software and free software resources.
 
-> [What is free software?](about.md)
-
-Any software that you add must adhere to this [definition](about.md) of free. Please follow the [Contribution Guidelines](https://github.com/johnjago/Awesome-Free-Software/blob/master/contributing.md). Thank you!
+> [What is free software?](https://www.gnu.org/philosophy/free-sw.html)
 
 ## Contents
 - [Applications](#applications)
@@ -31,6 +37,8 @@ Any software that you add must adhere to this [definition](about.md) of free. Pl
   - [Discovery](#discovery)
   - [Organizations](#organizations)
   - [Talks](#talks)
+
+---
 
 ## Applications
 
