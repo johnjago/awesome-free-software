@@ -32,6 +32,7 @@ A curated list of awesome free software and free software resources.
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
+  - [Events](#events)
   - [Organizations](#organizations)
   - [Talks](#talks)
 
