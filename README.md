@@ -129,6 +129,9 @@ A curated list of awesome free software and free software resources.
 ### Discovery
   - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
 
+### Events
+  - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
+
 ### Organizations
   - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
   - [FSF India](http://fsf.org.in/) - Site for Free Software Foundation India.
