@@ -36,8 +36,6 @@ A curated list of awesome free software and free software resources.
   - [Organizations](#organizations)
   - [Talks](#talks)
 
----
-
 ## Applications
 
 ### Audio
@@ -101,6 +99,7 @@ A curated list of awesome free software and free software resources.
   - [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server. ([GNU GPLv2](https://git-scm.com/about/free-and-open-source))
   
 ### Video
+  - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
   - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
   - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
   
@@ -109,6 +108,7 @@ A curated list of awesome free software and free software resources.
   - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
 
 ### Web Applications
+  - [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
   - [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
   - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
