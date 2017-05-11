@@ -134,13 +134,17 @@ A curated list of awesome free software and free software resources.
 
 ### Events
 - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
+- [Software Freedom Day](http://www.softwarefreedomday.org/) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
 
 ### Organizations
+- [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
 - [FSF India](http://fsf.org.in/) - Site for Free Software Foundation India.
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
+- [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects.
+- [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of legal services to Free, Libre, and Open Source Software creators.
   
 ### Talks
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
@@ -148,9 +152,9 @@ A curated list of awesome free software and free software resources.
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
-- [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
-- [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
-- [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Jeremy Allison](https://www.youtube.com/watch?v=kNakHgHnSDI)
+- [John Sullivan](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
+- [Stephen Fry](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
