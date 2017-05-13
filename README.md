@@ -18,6 +18,7 @@ A curated list of awesome free software and free software resources.
   - [Graphics](#graphics)
   - [Integrated Development Environments](#integrated-development-environments)
   - [Office](#office)
+  - [Operating Systems](#operating-systems)
   - [Payments](#payments)
   - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
@@ -72,6 +73,11 @@ A curated list of awesome free software and free software resources.
 - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
 - [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - Document reader with support for many formats. ([GNU GPLv3](https://raw.githubusercontent.com/sumatrapdfreader/sumatrapdf/master/COPYING))
 - [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([Custom](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
+
+### Operating Systems
+Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
+- [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible Linux distribution. ([License](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([License](https://wiki.archlinux.org/index.php/Licenses))
 
 ### Payments
 - [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
@@ -131,6 +137,7 @@ A curated list of awesome free software and free software resources.
 
 ### Discovery
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
+- [Free GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
 
 ### Events
 - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
