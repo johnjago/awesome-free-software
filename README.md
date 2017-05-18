@@ -77,7 +77,9 @@ A curated list of awesome free software and free software resources.
 ### Operating Systems
 Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
 - [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible Linux distribution. ([License](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu running the LXDE desktop environment. ([See Ubuntu licensing](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([License](https://wiki.archlinux.org/index.php/Licenses))
+- [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu running the Xfce desktop environment. ([See Ubuntu licensing](https://www.ubuntu.com/about/about-ubuntu/licensing))
 
 ### Payments
 - [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
