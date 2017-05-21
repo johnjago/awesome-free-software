@@ -87,12 +87,14 @@ A curated list of awesome free software and free software resources.
 
 Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
 
-- [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible Linux distribution. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
-- [Linux Mint](https://linuxmint.com/) - Based on Debian and Ubuntu; beginner friendly and with common applications installed. ([GNU GPL](https://linuxmint.com/faq.php))
-- [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu running the LXDE desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
-- [Manjaro](https://manjaro.org/) - User-friendly Linux distribution based on Arch. ([Licenses](https://manjaro.org/disclaimer-licenses/))
+- [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [elementary OS](https://elementary.io/) - Elegant design aimed at ease of use. Pantheon desktop environment. ([Licenses](https://elementary.io/open-source))
+- [Linux Mint](https://linuxmint.com/) - Based on Debian and Ubuntu. Beginner friendly and with common applications installed. ([GNU GPL](https://linuxmint.com/faq.php))
+- [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu. LXDE desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [Manjaro](https://manjaro.org/) - User-friendly distribution based on Arch. ([Licenses](https://manjaro.org/disclaimer-licenses/))
+- [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
-- [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu running the Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 
 ### Payments
 
