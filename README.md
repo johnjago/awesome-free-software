@@ -162,6 +162,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Articles
 
+- [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 
 ### Discovery
