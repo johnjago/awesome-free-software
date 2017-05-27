@@ -44,6 +44,7 @@ A curated list of awesome free software and free software resources.
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 - [LMMS](https://lmms.io/) - Complete music workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
+- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
 ### Command Line Tools
 
@@ -143,6 +144,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [GitLab](https://about.gitlab.com/downloads/) - Web-based Git repository manager with wiki and issue tracking features. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
+- []() - ([]())
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
