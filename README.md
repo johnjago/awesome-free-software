@@ -128,6 +128,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. ([GNU GPLv2](http://pwgen-win.sourceforge.net/downloads.html))
 - [Rufus](http://rufus.akeo.ie/) - Bootable USB installation media creator. ([GNU GPLv3](https://raw.githubusercontent.com/pbatard/rufus/master/LICENSE.txt))
+- [todometer](https://cassidoo.github.io/todometer/) - Meter-based to-do list. ([MIT](https://github.com/cassidoo/todometer/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 
 ### Version Control
