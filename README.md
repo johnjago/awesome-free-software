@@ -20,6 +20,7 @@ A curated list of awesome free software and free software resources.
   - [Integrated Development Environments](#integrated-development-environments)
   - [Office](#office)
   - [Operating Systems](#operating-systems)
+  - [Other](#other)
   - [Payments](#payments)
   - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
@@ -96,6 +97,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
 - [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+
+### Other
+
+- [Media Mate](https://mediamate.williamblythe.info/) - All-in-one media server, player, and downloader. ([MIT](https://github.com/willyb321/media_mate/blob/develop/license))
 
 ### Payments
 
