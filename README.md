@@ -44,6 +44,7 @@ A curated list of awesome free software and free software resources.
 ### Audio
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
+- [Headset](http://headsetapp.co/) - Music streaming from YouTube and music subreddits. ([MIT](https://github.com/headsetapp/headset-electron/blob/master/LICENSE))
 - [LMMS](https://lmms.io/) - Complete music workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
