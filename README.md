@@ -102,6 +102,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other
 
+- [Lepton](http://hackjutsu.com/Lepton/) - GitHub gist desktop client. ([MIT](https://github.com/hackjutsu/Lepton/blob/master/LICENSE))
 - [Media Mate](https://mediamate.williamblythe.info/) - All-in-one media server, player, and downloader. ([MIT](https://github.com/willyb321/media_mate/blob/develop/license))
 
 ### Payments
