@@ -159,8 +159,9 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Web Browsers
 
-- [Chromium](https://www.chromium.org/Home) - The open-source version of one of the world's most popular web browsers. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
+- [Chromium](https://www.chromium.org/Home) - The open source version of the world's most popular web browser. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
 - [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
+- [IceCat](https://www.gnu.org/software/gnuzilla/) - A fork of Firefox that is composed entirely of free software. ([MPL 2.0](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING))
 - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. ([MPL 2.0](https://raw.githubusercontent.com/MrAlex94/Waterfox/master/LICENSE.md))
 
 ### Web Servers
@@ -205,9 +206,9 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
-- [Jeremy Allison](https://www.youtube.com/watch?v=kNakHgHnSDI)
-- [John Sullivan](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
-- [Stephen Fry](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
+- [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
+- [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 
 ## License
 
