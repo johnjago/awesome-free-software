@@ -36,6 +36,7 @@ A curated list of awesome free software and free software resources.
   - [Articles](#articles)
   - [Discovery](#discovery)
   - [Events](#events)
+  - [Licensing](#licensing)
   - [Organizations](#organizations)
   - [Talks](#talks)
 
@@ -187,6 +188,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
 - [Software Freedom Day](http://www.softwarefreedomday.org/) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
+
+### Licensing
+
+- [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
 
 ### Organizations
 
