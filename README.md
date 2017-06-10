@@ -184,12 +184,13 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+- [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 
 ### Discovery
 
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
-- [Free GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
+- [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
 
 ### Events
 
@@ -217,7 +218,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+- [I am not a free software guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 - [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
 - [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
 - [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
