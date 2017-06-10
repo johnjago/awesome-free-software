@@ -184,6 +184,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+- [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 
 ### Discovery
 
