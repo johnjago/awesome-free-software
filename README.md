@@ -16,6 +16,7 @@ A curated list of awesome free software and free software resources.
   - [Communication](#communication)
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
+  - [Frameworks](#frameworks)
   - [Graphics](#graphics)
   - [Integrated Development Environments](#integrated-development-environments)
   - [Office](#office)
@@ -70,6 +71,10 @@ A curated list of awesome free software and free software resources.
 ### File Sharing
 
 - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
+
+### Frameworks
+
+- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ### Graphics
 
