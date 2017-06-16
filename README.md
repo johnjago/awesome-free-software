@@ -186,6 +186,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Frameworks
 
+- [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Resources
