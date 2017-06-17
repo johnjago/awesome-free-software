@@ -162,6 +162,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Web Applications
 
 - [GitLab](https://about.gitlab.com/downloads/) - Web-based Git repository manager with wiki and issue tracking features. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software with the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
