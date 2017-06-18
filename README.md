@@ -1,6 +1,6 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="124">](https://www.gnu.org/)
+[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
 
 >A curated list of free as in freedom software.
 
@@ -31,8 +31,7 @@
   - [Web Applications](#web-applications)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
-- [Programming Tools](#programming-tools)
-  - [Frameworks](#frameworks)
+- [Frameworks](#frameworks)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -182,10 +181,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [nginx](https://nginx.org/) - A HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
-## Programming Tools
-> Used to make applications.
-
-### Frameworks
+## Frameworks
+> Free frameworks to build (hopefully) free software.
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
