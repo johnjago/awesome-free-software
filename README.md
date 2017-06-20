@@ -2,7 +2,7 @@
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
 
->A curated list of free as in freedom software.
+> A curated list of free as in freedom software.
 
 [What is free software?](https://www.gnu.org/philosophy/free-sw.html)
 
@@ -159,10 +159,11 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Web Applications
 
-- [GitLab](https://about.gitlab.com/downloads/) - Web-based Git repository manager with wiki and issue tracking features. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [GitLab](https://about.gitlab.com/downloads/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
-- [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
-- [MediaWiki](https://www.mediawiki.org) - Wiki software with the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
+- [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
+- [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
@@ -214,12 +215,12 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
-- [FSF India](http://fsf.org.in/) - Site for Free Software Foundation India.
+- [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
-- [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects.
-- [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of legal services to Free, Libre, and Open Source Software creators.
+- [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
+- [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
   
 ### Talks
 
