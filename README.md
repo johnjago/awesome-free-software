@@ -94,6 +94,8 @@
 
 Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
 
+#### Desktop
+
 - [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [elementary OS](https://elementary.io/) - Elegant design aimed at ease of use. Pantheon desktop environment. ([Licenses](https://elementary.io/open-source))
@@ -103,6 +105,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
 - [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+
+#### Mobile
+
+- [Replicant](https://www.replicant.us/) - Fully free Android distribution that emphasizes freedom, security, and privacy. ([Licenses](https://www.replicant.us/about.php))
 
 ### Other
 
@@ -235,4 +241,4 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
