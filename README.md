@@ -32,6 +32,7 @@
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
 - [Frameworks](#frameworks)
+- [Hardware](#hardware)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -193,6 +194,11 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
+
+## Hardware
+> Libre-friendly.
+
+- [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.
 
 ## Resources
 
