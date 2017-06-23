@@ -198,6 +198,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ## Hardware
 > Libre-friendly.
 
+- [ThinkPenguin](https://www.thinkpenguin.com/) - Provider of modern laptops, desktops, and printers that contain no proprietary software.
 - [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.
 
 ## Resources
