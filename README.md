@@ -65,6 +65,7 @@
 - [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
+- [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ### File Management
