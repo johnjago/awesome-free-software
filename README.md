@@ -237,6 +237,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
 - [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
+- [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
   
