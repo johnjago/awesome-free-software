@@ -171,6 +171,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Web Applications
 
 - [GitLab](https://about.gitlab.com/downloads/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. (GNU GPLv3)
 - [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
