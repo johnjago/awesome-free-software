@@ -49,6 +49,7 @@
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 - [Headset](http://headsetapp.co/) - Music streaming from YouTube and music subreddits. ([MIT](https://github.com/headsetapp/headset-electron/blob/master/LICENSE))
+- [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/) - Complete music workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
@@ -234,6 +235,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Organizations
 
+- [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
 - [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
