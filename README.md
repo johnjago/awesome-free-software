@@ -180,6 +180,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
+- [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Browsers
@@ -200,6 +201,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 > Free frameworks to build (hopefully) free software.
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
+- [HyperApp](https://hyperapp.glitch.me/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
 - [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Hardware
