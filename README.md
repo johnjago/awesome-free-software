@@ -63,6 +63,7 @@
 
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
+- [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 - [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
@@ -251,11 +252,12 @@ Note: Some of these may contain or allow installation of nonfree software. See t
   
 ### Talks
 
+- [A Free Digital Society by Richard Stallman](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
 - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+- [I Am Not a Free Software Guy by Wrishiraj Kaushik](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 - [Jeremy Allison Talks About Free Software](https://www.youtube.com/watch?v=kNakHgHnSDI)
 - [John Sullivan Talks About Free Software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
 - [Stephen Fry Talks About Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
