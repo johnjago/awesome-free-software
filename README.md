@@ -1,10 +1,10 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
+[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
 
 > A curated list of free as in freedom software.
 
-[What is free software?](https://www.gnu.org/philosophy/free-sw.html)
+Free software is distributed under terms that allow users to run the program for any purpose, study the source code, modify it, and distribute the software. These programs respect users' freedom and build community. [Learn more about free software](https://www.gnu.org/philosophy/free-sw.html).
 
 ## Contents
 
