@@ -15,7 +15,7 @@ Free software is distributed under terms that allow users to run the program for
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
   - [Graphics](#graphics)
-  - [Integrated Development Environments](#integrated-development-environments)
+  - [IDEs](#IDEs)
   - [Office](#office)
   - [Operating Systems](#operating-systems)
   - [Other](#other)
@@ -88,7 +88,7 @@ Free software is distributed under terms that allow users to run the program for
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 - [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
-### Integrated Development Environments
+### IDEs
 
 - [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 
@@ -116,6 +116,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 #### Mobile
 
+- [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. ([Apache License 2.0](https://github.com/LineageOS/lineageos_updater/blob/master/LICENSE.md))
 - [Replicant](https://www.replicant.us/) - Fully free Android distribution that emphasizes freedom, security, and privacy. ([Licenses](https://www.replicant.us/about.php))
 
 ### Other
