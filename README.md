@@ -15,7 +15,7 @@ Free software is distributed under terms that allow users to run the program for
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
   - [Graphics](#graphics)
-  - [IDEs](#IDEs)
+  - [IDEs](#ides)
   - [Office](#office)
   - [Operating Systems](#operating-systems)
   - [Other](#other)
@@ -214,6 +214,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ## Hardware
 > Libre-friendly.
 
+- [Aleph Objects](https://www.alephobjects.com/) - RYF certified 3D printer built with libre hardware and software.
 - [Libiquity](http://www.libiquity.com/) - Company that designs and develops embedded software and firmware systems.
 - [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
 - [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
@@ -255,6 +256,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
 - [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
+- [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
 - [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
