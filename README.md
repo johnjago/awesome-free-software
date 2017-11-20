@@ -39,6 +39,7 @@ Free software is distributed under terms that allow users to run the program for
   - [Events](#events)
   - [Licensing](#licensing)
   - [Organizations](#organizations)
+  - [Other Lists](#other-lists)
   - [Talks](#talks)
 - [License](#license)
 
@@ -257,7 +258,12 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
-  
+
+### Other Lists
+
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
+
 ### Talks
 
 - [A Free Digital Society by Richard Stallman](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
