@@ -180,6 +180,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [GitLab](https://about.gitlab.com/downloads/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. (GNU GPLv3)
 - [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
+- [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. <a href="https://github.com/lobsters/lobsters/blob/master/LICENSE">`BSD 3-clause`</a>
 - [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
