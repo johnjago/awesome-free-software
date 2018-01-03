@@ -126,6 +126,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Lepton](http://hackjutsu.com/Lepton/) - GitHub gist desktop client. ([MIT](https://github.com/hackjutsu/Lepton/blob/master/LICENSE))
 - [Media Mate](https://mediamate.williamblythe.info/) - All-in-one media server, player, and downloader. ([MIT](https://github.com/willyb321/media_mate/blob/develop/license))
+- [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 
 ### Payments
 
