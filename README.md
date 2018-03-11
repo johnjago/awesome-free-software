@@ -190,6 +190,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
+- [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming service. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
@@ -253,6 +254,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Organizations
 
+- [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
 - [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
