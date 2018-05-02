@@ -33,6 +33,8 @@ Free software is distributed under terms that allow users to run the program for
   - [Web Servers](#web-servers)
 - [Frameworks](#frameworks)
 - [Hardware](#hardware)
+  - [Companies](#companies)
+  - [Hardware Resources](#hardware-resources)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -241,6 +243,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Business Models for Open-Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+- ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 - [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 
