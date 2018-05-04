@@ -51,7 +51,6 @@ Free software is distributed under terms that allow users to run the program for
 ### Audio
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
-- [Headset](http://headsetapp.co/) - Music streaming from YouTube and music subreddits. ([MIT](https://github.com/headsetapp/headset-electron/blob/master/LICENSE))
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/) - Complete music workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
@@ -62,7 +61,7 @@ Free software is distributed under terms that allow users to run the program for
 - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
-- [ranger](http://ranger.nongnu.org/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Communication
 
@@ -101,7 +100,6 @@ Free software is distributed under terms that allow users to run the program for
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
-- [Sumatra PDF](http://sumatrapdfreader.org/free-pdf-reader.html) - Document reader with support for many formats. ([GNU GPLv3](https://raw.githubusercontent.com/sumatrapdfreader/sumatrapdf/master/COPYING))
 - [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([Custom](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
 
 ### Operating Systems
@@ -113,12 +111,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [elementary OS](https://elementary.io/) - Elegant design aimed at ease of use. Pantheon desktop environment. ([Licenses](https://elementary.io/open-source))
-- [Linux Mint](https://linuxmint.com/) - Based on Debian and Ubuntu. Beginner friendly and with common applications installed. ([GNU GPL](https://linuxmint.com/faq.php))
 - [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu. LXDE desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Manjaro](https://manjaro.org/) - User-friendly distribution based on Arch. ([Licenses](https://manjaro.org/disclaimer-licenses/))
 - [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
 - [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
-- [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
 - [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 
 #### Mobile
@@ -128,9 +124,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other
 
-- [Lepton](http://hackjutsu.com/Lepton/) - GitHub gist desktop client. ([MIT](https://github.com/hackjutsu/Lepton/blob/master/LICENSE))
-- [Media Mate](https://mediamate.williamblythe.info/) - All-in-one media server, player, and downloader. ([MIT](https://github.com/willyb321/media_mate/blob/develop/license))
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
+- [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
 ### Payments
 
@@ -160,9 +155,6 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Utilities
 
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
-- [PWGen](http://pwgen-win.sourceforge.net/) - Secure password generator. ([GNU GPLv2](http://pwgen-win.sourceforge.net/downloads.html))
-- [Rufus](http://rufus.akeo.ie/) - Bootable USB installation media creator. ([GNU GPLv3](https://raw.githubusercontent.com/pbatard/rufus/master/LICENSE.txt))
-- [todometer](https://cassidoo.github.io/todometer/) - Meter-based to-do list. ([MIT](https://github.com/cassidoo/todometer/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 
 ### Version Control
@@ -184,11 +176,11 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
-- [GitLab](https://about.gitlab.com/downloads/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. (GNU GPLv3)
 - [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))
-- [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
+- [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
@@ -210,8 +202,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
 - [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
-- [nginx](https://nginx.org/) - A HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
-- [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
+- [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Frameworks
 > Free frameworks to build (hopefully) free software.
