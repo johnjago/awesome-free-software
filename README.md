@@ -8,7 +8,7 @@ Free software is distributed under terms that allow users to run the program for
 
 ## Contents
 
-- [Applications](#applications)
+- [Software](#software)
   - [Audio](#audio)
   - [Command Line Tools](#command-line-tools)
   - [Communication](#communication)
@@ -31,7 +31,6 @@ Free software is distributed under terms that allow users to run the program for
   - [Web Applications](#web-applications)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
-- [Frameworks](#frameworks)
 - [Hardware](#hardware)
   - [Companies](#companies)
   - [Hardware Resources](#hardware-resources)
@@ -45,8 +44,7 @@ Free software is distributed under terms that allow users to run the program for
   - [Talks](#talks)
 - [License](#license)
 
-## Applications
-> Download and use.
+## Software
 
 ### Audio
 
@@ -124,6 +122,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other
 
+- [HyperApp](https://hyperapp.js.org/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
@@ -203,13 +202,6 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
 - [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
-
-## Frameworks
-> Free frameworks to build (hopefully) free software.
-
-- [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
-- [HyperApp](https://hyperapp.glitch.me/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
-- [Nano](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Hardware
 > Libre-friendly.
