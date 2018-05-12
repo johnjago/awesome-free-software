@@ -253,6 +253,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
+- [Free Software Movement Karnataka](https://fsmk.org/) - Group in Bengaluru, India that spreads awareness about free software.
+- [Free Software Movement of India](http://fsmi.in/) - Coalition of free software organizations in India.
 - [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
