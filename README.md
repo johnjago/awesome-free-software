@@ -104,22 +104,15 @@
 
 ### Operating Systems
 
-Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
-
 #### Desktop
 
-- [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+- [Debian](https://www.debian.org/) - One of the earliest UNIX-like operating systems with a commitment to keeping nonfree software out of its system. ([DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
-- [elementary OS](https://elementary.io/) - Elegant design aimed at ease of use. Pantheon desktop environment. ([Licenses](https://elementary.io/open-source))
-- [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu. LXDE desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
-- [Manjaro](https://manjaro.org/) - User-friendly distribution based on Arch. ([Licenses](https://manjaro.org/disclaimer-licenses/))
 - [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
-- [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
-- [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 
 #### Mobile
 
-- [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. ([Apache License 2.0](https://github.com/LineageOS/lineageos_updater/blob/master/LICENSE.md))
+- [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
 - [Replicant](https://www.replicant.us/) - Fully free Android distribution that emphasizes freedom, security, and privacy. ([Licenses](https://www.replicant.us/about.php))
 
 ### Other
