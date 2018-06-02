@@ -199,7 +199,6 @@
 - [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
-> Libre-friendly.
 
 ### Companies
 
