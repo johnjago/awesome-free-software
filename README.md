@@ -218,7 +218,6 @@
 
 ### Articles
 
-- [Business Models for Open-Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 - [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
@@ -254,7 +253,6 @@
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
-- [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
 - [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
 - [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
