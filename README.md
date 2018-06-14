@@ -225,6 +225,10 @@
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 - [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
 
+### Companies
+
+- [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
+
 ### Discovery
 
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
@@ -244,7 +248,6 @@
 ### Organizations
 
 - [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
-- [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
@@ -256,9 +259,11 @@
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
 - [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
 - [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
+- [Peers](https://peers.community/) - Community that helps support and grow free projects.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
 - [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
+- [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
 
 ### Other Lists
 
