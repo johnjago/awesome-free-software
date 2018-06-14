@@ -38,7 +38,7 @@
   - [Hardware Resources](#hardware-resources)
 - [Resources](#resources)
   - [Articles](#articles)
-  - [Companies](#companies)
+  - [Businesses](#businesses)
   - [Discovery](#discovery)
   - [Events](#events)
   - [Licensing](#licensing)
@@ -226,7 +226,7 @@
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 - [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
 
-### Companies
+### Businesses
 
 - [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
 
