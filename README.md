@@ -38,6 +38,7 @@
   - [Hardware Resources](#hardware-resources)
 - [Resources](#resources)
   - [Articles](#articles)
+  - [Companies](#companies)
   - [Discovery](#discovery)
   - [Events](#events)
   - [Licensing](#licensing)
