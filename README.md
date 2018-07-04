@@ -181,6 +181,7 @@
 - [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
+- [MetaGer](https://metager.de/en) - Private search engine created by a non-profit that uses green electricity for its servers. ([GNU AGPLv3](https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
