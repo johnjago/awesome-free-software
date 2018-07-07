@@ -282,15 +282,14 @@
 
 ### Talks
 
-- [A Free Digital Society by Richard Stallman](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
+- [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
-- [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
-- [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
-- [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [I Am Not a Free Software Guy by Wrishiraj Kaushik](https://www.youtube.com/watch?v=KQCC5oSfAYo)
-- [Jeremy Allison Talks About Free Software](https://www.youtube.com/watch?v=kNakHgHnSDI)
-- [John Sullivan Talks About Free Software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
-- [Stephen Fry Talks About Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
+- [Richard Stallman: A Free Digital Society](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
+- [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+- [Richard Stallman: Reclaim Your Freedom with Free Libre Software Now (Web Summit)](https://www.youtube.com/watch?v=n9YDz-Iwgyw)
+- [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
 ## License
 
