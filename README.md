@@ -161,6 +161,7 @@
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
+- [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md))
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
   
