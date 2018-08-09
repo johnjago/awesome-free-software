@@ -45,6 +45,7 @@
   - [Licensing](#licensing)
   - [Organizations](#organizations)
   - [Other Lists](#other-lists)
+  - [People](#people)
   - [Talks](#talks)
 - [License](#license)
 
@@ -280,6 +281,10 @@
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 - [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
+
+### People
+
+- [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
 
 ### Talks
 
