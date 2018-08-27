@@ -227,9 +227,7 @@
 
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
-- [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
-- [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
-- [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
+- [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important from Devuan.
 
 ### Blogs
 
