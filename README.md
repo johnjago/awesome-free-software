@@ -4,9 +4,7 @@
 
 > “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.
 
-[Learn more about free software](https://www.gnu.org/philosophy/free-sw.html)
-
-[Find out why the term “open source” is different than “free software”](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+[Eric Raymond: Shut Up and Show Them the Code](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
 ## Contents
 
