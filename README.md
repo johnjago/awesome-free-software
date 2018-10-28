@@ -139,6 +139,7 @@
 ### Screencasting
 
 - [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING))
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
 
 ### Text Editors
