@@ -222,6 +222,7 @@
 
 - [disaster.radio](https://disaster.radio/) - Off-grid, solar-powered, long-range mesh network built on free software and affordable, open hardware.
 - [h-node](https://h-node.org/) - Database of hardware that works with a fully free operating system.
+- [Linux Preloaded](https://linuxpreloaded.com/) - Hand-picked list of vendors from many regions that sell computers preinstalled with free software.
 - [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) - Requirements to qualify for the Free Software Foundation's RYF certification.
 
 ## Resources
