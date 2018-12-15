@@ -4,7 +4,11 @@
 
 > “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.
 
-[Eric Raymond: Shut Up and Show Them the Code](https://www.linuxtoday.com/developer/1999062802310NWSM)
+—GNU Project
+
+> RMS's best propaganda has always been his hacking. So it is for all of us; to the rest of the world outside our little tribe, the excellence of our software is a *far* more persuasive argument for openness and freedom than any amount of highfalutin appeal to abstract principles. So the next time RMS, or anybody else, urges you to "talk about freedom", I urge you to reply "Shut up and show them the code."
+
+—[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
 ## Contents
 
