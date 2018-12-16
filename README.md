@@ -29,7 +29,6 @@
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
   - [Utilities](#utilities)
-  - [Version Control](#version-control)
   - [Video](#video)
   - [Virtualization](#virtualization)
   - [Web Applications](#web-applications)
@@ -159,10 +158,6 @@
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
-
-### Version Control
-
-- [Git](https://git-scm.com/) - Fast, distributed version control providing full project history without the need for a central server. ([GNU GPLv2](https://git-scm.com/about/free-and-open-source))
   
 ### Video
 
