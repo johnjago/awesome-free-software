@@ -33,7 +33,6 @@
   - [Video](#video)
   - [Virtualization](#virtualization)
   - [Web Applications](#web-applications)
-  - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
 - [Hardware](#hardware)
   - [Companies](#companies)
@@ -197,13 +196,6 @@
 - [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
-
-### Web Browsers
-
-- [Chromium](https://www.chromium.org/Home) - The open source version of the world's most popular web browser. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
-- [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
-- [IceCat](https://www.gnu.org/software/gnuzilla/) - A fork of Firefox that is composed entirely of free software. ([MPL 2.0](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING))
-- [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. ([MPL 2.0](https://raw.githubusercontent.com/MrAlex94/Waterfox/master/LICENSE.md))
 
 ### Web Servers
 
