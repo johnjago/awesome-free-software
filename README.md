@@ -24,7 +24,6 @@
   - [Operating Systems](#operating-systems)
   - [Other](#other)
   - [Payments](#payments)
-  - [Programming](#programming)
   - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
@@ -71,10 +70,10 @@
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
 - [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
-- [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
+- [Mattermost](https://mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
-- [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
+- [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 - [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
@@ -85,7 +84,7 @@
 
 ### File Sharing
 
-- [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
+- [qBittorrent](https://www.qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
 
 ### Graphics
 
@@ -98,25 +97,20 @@
 
 ### IDEs
 
-- [Eclipse](https://www.eclipse.org/) - Integrated development environment for Java and more. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
+- [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
+- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
-- [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([Custom](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
+- [Zathura](https://git.pwmt.org/pwmt/zathura) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([zlib License](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
 
 ### Operating Systems
-
-#### Desktop
 
 - [Debian](https://www.debian.org/) - One of the earliest UNIX-like operating systems with a commitment to keeping nonfree software out of its system. ([DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
-
-#### Mobile
-
 - [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
-- [Replicant](https://www.replicant.us/) - Fully free Android distribution that emphasizes freedom, security, and privacy. ([Licenses](https://www.replicant.us/about.php))
 
 ### Other
 
@@ -129,10 +123,6 @@
 
 - [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
 - [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
-
-### Programming
-
-- [GNU Compiler Collection](https://www.gnu.org/software/gcc/) - Compiler for C, C++, Objective-C, Fortran, Ada, Go, and D. ([GNU GPLv3](https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=COPYING3;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=f0cd56a4ae4b7114ad5df0d34fa1d75c8d3469dc))
 
 ### Scientific Work
 
@@ -242,7 +232,7 @@
 ### Events
 
 - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
-- [Software Freedom Day](http://www.softwarefreedomday.org/) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
+- [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
 
 ### Licensing
 
@@ -252,7 +242,7 @@
 ### Organizations
 
 - [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
-- [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
+- [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
 - [Free Software Movement Karnataka](https://fsmk.org/) - Group in Bengaluru, India that spreads awareness about free software.
@@ -262,7 +252,7 @@
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
 - [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
-- [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
+- [Outreachy](https://www.outreachy.org/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Peers](https://peers.community/) - Community that helps support and grow free projects.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
