@@ -167,7 +167,7 @@
 
 ### Web Applications
 
-- [Dnote](https://dnote.io/) - A simple, end-to-end encrypted notebook for privacy. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
+- [Dnote](https://www.getdnote.com//) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
