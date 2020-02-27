@@ -1,14 +1,6 @@
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
-
-> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.
-
-—GNU Project
-
-> RMS's best propaganda has always been his hacking. So it is for all of us; to the rest of the world outside our little tribe, the excellence of our software is a *far* more persuasive argument for openness and freedom than any amount of highfalutin appeal to abstract principles. So the next time RMS, or anybody else, urges you to "talk about freedom", I urge you to reply "Shut up and show them the code."
-
-—[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
+Software in this list is distributed under terms that allow anyone to use, modify, and share the software for any purpose. The two most popular licenses are the [MIT License](https://choosealicense.com/licenses/mit/) and the [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/), but there are [many other licenses](https://choosealicense.com/appendix/) which grant these permissions.
 
 ## Contents
 
@@ -282,9 +274,7 @@
 - [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
 - [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
-- [Richard Stallman: A Free Digital Society](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
 - [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [Richard Stallman: Reclaim Your Freedom with Free Libre Software Now (Web Summit)](https://www.youtube.com/watch?v=n9YDz-Iwgyw)
 - [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 - [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
