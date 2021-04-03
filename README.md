@@ -84,6 +84,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### File Sharing
 
 - [qBittorrent](https://www.qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
+- [Sharry](https://eikek.github.io/sharry/) - Convinient file sharing web application that allows you to upload files and get a url back that can then be shared. ([GNU GPLv3+](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
 
 ### Graphics
 
