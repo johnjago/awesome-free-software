@@ -142,6 +142,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Text Editors
 
+- [Atom](https://atom.io/) - Hackable text and source code editor. (Archived) ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
 - [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor. Forked from Atom. ([MIT](https://raw.githubusercontent.com/pulsar-edit/pulsar/master/LICENSE.md))
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. ([GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
