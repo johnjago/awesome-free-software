@@ -61,6 +61,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+- [Kit CLI](https://github.com/jozu-ai/kitops?tab=readme-ov-file) - Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. ([Apache License 2.0](https://github.com/jozu-ai/kitops/blob/main/LICENSE))
 
 ### Communication
 
