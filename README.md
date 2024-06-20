@@ -81,6 +81,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
 - [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. ([GNU GPLv2+](https://filezilla-project.org/license.php))
+- [Mikochi](https://github.com/zer0tonin/Mikochi) - A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. ([MIT](https://github.com/zer0tonin/Mikochi/blob/main/LICENSE))
 - [WinSCP](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3](https://github.com/winscp/winscp/blob/master/license.txt))
 
 
