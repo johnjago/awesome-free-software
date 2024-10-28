@@ -101,6 +101,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### IDEs
 
+- [CodeLobster IDE](https://codelobster.com/) - Free IDE with special support for many popular frameworks. ([Licenses]([http://www.eclipse.org/legal/epl-v10.html](https://codelobster.com/order-ide.php)))
 - [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
