@@ -61,6 +61,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+- [Localizely](https://github.com/localizely/localizely-cli) - Open source tool that helps you sync localization files between your source code and the Localizely platform. ([MIT](https://github.com/localizely/localizely-cli/blob/main/LICENSE))
 - [Kit CLI](https://github.com/jozu-ai/kitops?tab=readme-ov-file) - Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. ([Apache License 2.0](https://github.com/jozu-ai/kitops/blob/main/LICENSE))
 
 ### Communication
@@ -178,6 +179,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
 - [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
+- [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE))
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
@@ -195,6 +197,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming service. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
+- [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
 - [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
