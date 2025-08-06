@@ -5,6 +5,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ## Contents
 
 - [Software](#software)
+  - [Analytics](#analytics)
   - [Audio](#audio)
   - [Command Line Tools](#command-line-tools)
   - [Communication](#communication)
@@ -41,6 +42,12 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [License](#license)
 
 ## Software
+
+### Analytics
+
+- [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative. ([GNU AGPLv3](https://github.com/plausible/analytics/blob/master/LICENSE.md))
+- [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit. ([GNU AGPLv3](https://github.com/repohistory/repohistory/blob/master/LICENSE))
+- [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics. ([MIT](https://github.com/umami-software/umami/blob/master/LICENSE))
 
 ### Audio
 
