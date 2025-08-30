@@ -153,6 +153,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 - [VS Code](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
 - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. ([GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
+- [Text Forge](https://text-forge.github.io/docs) - A lighweight, language agnostic, hackable, and highly modular code editor. ([MIT](https://github.com/text-forge/text-forge/blob/Main/LICENSE))
 
 ### Utilities
 
