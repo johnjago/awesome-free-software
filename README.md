@@ -163,6 +163,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 - [Espanso](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 - [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - App to comfortably monitor your Internet traffic. ([MIT](https://github.com/GyulyVGC/sniffnet/blob/main/LICENSE-MIT))
 
 ### Video
 
