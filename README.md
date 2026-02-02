@@ -161,6 +161,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
+- [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support for secure disk imaging. ([GNU GPLv3](https://github.com/bad-antics/n01d-forge/blob/main/LICENSE))
 - [Espanso](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 - [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
 
@@ -176,6 +177,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License))
 - [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems. ([GNU GPLv2](https://www.virtualbox.org/wiki/GPL))
+- [n01d-machine](https://github.com/bad-antics/n01d-machine) - Secure VM manager with Tor/VPN integration, sandboxing, and network isolation. ([GNU GPLv3](https://github.com/bad-antics/n01d-machine/blob/main/LICENSE))
 
 ### Web Applications
 
