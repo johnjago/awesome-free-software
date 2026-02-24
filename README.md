@@ -137,6 +137,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
 - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis tool for medical researchers. Generates forest plots, funnel plots, and statistical reports with AI-powered literature screening and PDF data extraction. ([MIT](https://github.com/TerryFYL/metareview/blob/main/LICENSE))
 
 ### Screencasting
 
