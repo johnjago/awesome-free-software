@@ -203,6 +203,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
+- [DevKits](https://devkits-tools.surge.sh) - Collection of 82 free developer tools (JSON Formatter, OG Image Generator, Invoice Generator, etc.) running locally in browser — no data leaves your computer.
 
 ### Web Servers
 
