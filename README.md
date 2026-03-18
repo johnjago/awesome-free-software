@@ -137,6 +137,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
 - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers with structured experimental data from full-text studies. ([MIT](https://github.com/connerlambden/bgpt-mcp/blob/main/LICENSE))
 
 ### Screencasting
 
