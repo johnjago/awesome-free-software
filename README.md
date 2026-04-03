@@ -307,3 +307,4 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform with book, manga/webtoon, and screenplay editors. ([Source Code](https://github.com/SamDreamsMaker/TaleForge)) `MIT`
