@@ -2,6 +2,7 @@
 
 Software in this list is distributed under terms that allow anyone to use, modify, and share the software for any purpose. The two most popular licenses are the [MIT License](https://choosealicense.com/licenses/mit/) and the [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/), but there are [many other licenses](https://choosealicense.com/appendix/) which grant these permissions.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for free software development orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Software](#software)
