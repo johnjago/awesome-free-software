@@ -63,6 +63,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 - [Localizely](https://github.com/localizely/localizely-cli) - Open source tool that helps you sync localization files between your source code and the Localizely platform. ([MIT](https://github.com/localizely/localizely-cli/blob/main/LICENSE))
 - [Kit CLI](https://github.com/jozu-ai/kitops?tab=readme-ov-file) - Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. ([Apache License 2.0](https://github.com/jozu-ai/kitops/blob/main/LICENSE))
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source prospects from 450M+ contacts, launch email and LinkedIn campaigns, manage conversations. JSON output, agent-native. ([MIT](https://github.com/sortlist/overloop-cli/blob/main/LICENSE))
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output for agent pipelines. ([MIT](https://github.com/sortlist/signals-cli/blob/main/LICENSE))
 
 ### Communication
 
