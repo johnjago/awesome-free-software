@@ -100,6 +100,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Krita](https://krita.org) - Painting program made by artists. ([GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
 - [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 - [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
+- [SammaPix](https://www.sammapix.com/) - Browser-based image toolkit with 27 tools (compress, convert, resize, EXIF removal, AI rename, background removal). All processing runs client-side — images never leave your device. ([MIT](https://github.com/samma1997/sammapix/blob/main/LICENSE))
 
 ### IDEs
 
