@@ -127,6 +127,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
 - [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Library of 50,000+ expert AI agent skills for Claude Code, Cursor, Cline, and other AI coding assistants. ([MIT](https://github.com/theihtisham/omni-skills-forge/blob/master/LICENSE))
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Zero-config, self-evolving intelligence layer for AI coding agents with infinite memory, MCP server, and cross-agent learning. ([MIT](https://github.com/theihtisham/agent-shadow-brain/blob/master/LICENSE))
 
 ### Payments
 
