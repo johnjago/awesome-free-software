@@ -171,6 +171,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 - [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
+- [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - Desktop app that generates translated subtitles from any video file. Local speech-to-text with whisper.cpp and translation via local LLM or DeepL/OpenAI/Gemini. ([GNU GPLv3](https://github.com/Blue-B/WhisperSubTranslate/blob/main/LICENSE))
 
 ### Virtualization
 
