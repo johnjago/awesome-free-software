@@ -179,6 +179,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Web Applications
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup. Includes domain name generator, OG image generator, AI background remover (local processing), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and more. ([MIT](https://github.com/alfredoautomatizaloconia-cloud/tinytools))
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
 - [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE))
