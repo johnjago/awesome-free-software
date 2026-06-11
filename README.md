@@ -157,6 +157,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Utilities
 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
+- [Lockpaw](https://getlockpaw.com) - A macOS menu bar app that covers and locks your screen with a hotkey without sleeping — builds and AI agents keep running while input is blocked, the screen glows when your agent needs you, and Touch ID unlocks. ([MIT](https://github.com/sorkila/lockpaw/blob/main/LICENSE))
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
