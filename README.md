@@ -48,6 +48,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Ardour](https://ardour.org/) - Digital Audio Workstation (DAW). ([GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
+- [Mechvibes X](https://github.com/FytikProdd/mechvibes-x) - Play mechanical keyboard sounds as you type with 3D Spatial Audio and pitch/volume randomization. ([MIT](https://github.com/FytikProdd/mechvibes-x/blob/master/LICENSE))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
