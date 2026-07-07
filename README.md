@@ -89,7 +89,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### File Sharing
 
 - [qBittorrent](https://www.qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
-- [Sharry](https://eikek.github.io/sharry/) - Convinient file sharing web application that allows you to upload files and get a url back that can then be shared. ([GNU GPLv3+](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
+- [Sharry](https://eikek.github.io/sharry/) - Convenient file sharing web application that allows you to upload files and get a url back that can then be shared. ([GNU GPLv3+](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
 
 ### Graphics
 
@@ -126,7 +126,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
-- [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
+- [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tool that displays geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ### Payments
 
@@ -161,7 +161,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
-- [Espanso](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
+- [Espanso](https://github.com/federico-terzi/espanso) - A cross-platform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 - [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
 
 ### Video
