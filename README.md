@@ -95,6 +95,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
 - [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
+- [FotoApp](https://github.com/boulbaal/fotoApp) - Local-only photo and video organizer with duplicate detection, GPS map, RAW support, and Google Takeout import. No cloud or account. ([GPL-3.0](https://github.com/boulbaal/fotoApp/blob/main/LICENSE))
 - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
 - [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
 - [Krita](https://krita.org) - Painting program made by artists. ([GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
