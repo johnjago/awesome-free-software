@@ -127,6 +127,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
 - [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
+- [MyDigitSign](https://mydigitsign.com) - Free, client-side PDF signing and editing tool. No watermarks, runs entirely in the browser.
 
 ### Payments
 
