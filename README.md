@@ -166,6 +166,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, simple Docker installation, automatic updates, nightly yt-dlp maintenance, and rollback. ([MIT](https://github.com/Avazbek22/VideoDownloaderBot/blob/main/LICENSE))
 - [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Telegram group bot that turns shared links into native posts with quiet reactions, media reuse, and rollback-safe updates. ([MIT](https://github.com/Avazbek22/LinkDownloaderBotForGroups/blob/main/LICENSE))
+
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
