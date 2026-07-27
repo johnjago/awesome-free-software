@@ -164,6 +164,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Espanso](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 - [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
 
+- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, simple Docker installation, automatic updates, nightly yt-dlp maintenance, and rollback. ([MIT](https://github.com/Avazbek22/VideoDownloaderBot/blob/main/LICENSE))
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Telegram group bot that turns shared links into native posts with quiet reactions, media reuse, and rollback-safe updates. ([MIT](https://github.com/Avazbek22/LinkDownloaderBotForGroups/blob/main/LICENSE))
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
