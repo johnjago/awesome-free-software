@@ -207,6 +207,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
+- [BunkerWeb](https://github.com/bunkerity/bunkerweb) - Web server, reverse proxy, and Web Application Firewall. ([GNU AGPLv3](https://github.com/bunkerity/bunkerweb/blob/master/LICENSE.md))
 - [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 
