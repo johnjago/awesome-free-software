@@ -98,6 +98,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
 - [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
 - [Krita](https://krita.org) - Painting program made by artists. ([GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
+- [MetadataRemover.ai](https://metadataremover.ai/) - Browser-based toolkit to inspect, remove, edit, and verify supported metadata locally across images, PDFs, DOCX files, video, and MP3 audio. ([MIT](https://github.com/songwenlei/metadataremover.ai/blob/main/LICENSE))
 - [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 - [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
