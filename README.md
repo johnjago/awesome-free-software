@@ -139,6 +139,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
 
 ### Screencasting
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots.
 
 - [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING))
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
