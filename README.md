@@ -250,6 +250,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
 - [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
 - [freepost](https://freepo.st/) - Everything related to free culture.
+- [softx64](https://softx64.ir/) - Windows software catalog with a one-click installer app; freeware and open-source, curated and version-checked.
 
 ### Events
 
