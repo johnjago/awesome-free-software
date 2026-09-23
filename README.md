@@ -55,6 +55,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
 - [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive API documentation, typed SDKs, and MCP servers from API specifications. ([MIT](https://github.com/cortex-docs/cortex/blob/main/LICENSE))
 - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
