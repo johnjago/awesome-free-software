@@ -84,6 +84,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. ([GNU GPLv2+](https://filezilla-project.org/license.php))
 - [Mikochi](https://github.com/zer0tonin/Mikochi) - A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. ([MIT](https://github.com/zer0tonin/Mikochi/blob/main/LICENSE))
+- [SpaceScan](https://protagonistlabs.app/spacescan/) - Disk space analyzer for Windows that reads the NTFS Master File Table to map a whole drive in seconds, with a duplicate finder and scan-to-scan comparison. ([MIT](https://github.com/limburatorul/spacescan/blob/HEAD/LICENSE))
 - [WinSCP](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3](https://github.com/winscp/winscp/blob/master/license.txt))
 
 ### File Sharing
