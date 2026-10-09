@@ -143,6 +143,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING))
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 - [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
+- [Kooha](https://github.com/SeaDve/Kooha) - Kooha is a simple, free, open-source screen recorder for Linux that lets you record your screen or a selected area, with optional audio recording. ([GNU GPLv3](https://github.com/SeaDve/Kooha/blob/main/COPYING))
 
 ### Text Editors
 
