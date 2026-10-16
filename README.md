@@ -108,6 +108,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Office
 
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace, with basic text editing. ([MIT](https://github.com/NeoPanic/Glim/blob/main/LICENSE))
 - [LibreOffice](https://www.libreoffice.org/) - Office suite with word processor, spreadsheet, and presentation programs. ([MPLv2](https://www.libreoffice.org/about-us/licenses/))
 - [Open Office](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0](https://github.com/apache/openoffice/blob/trunk/LICENSE))
 - [Zathura](https://git.pwmt.org/pwmt/zathura) - Highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction. ([zlib License](https://git.pwmt.org/pwmt/zathura/raw/master/LICENSE))
