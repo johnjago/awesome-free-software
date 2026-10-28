@@ -168,6 +168,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
 - [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md))
+- [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) - Local SDH and bilingual subtitle editor with SRT/ITT export. Existing-subtitle review needs no account; optional cloud AI may incur charges. Public preview. ([MIT](https://github.com/OakcoderX/solopup-subtitle-studio/blob/main/LICENSE))
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 - [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
