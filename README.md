@@ -155,6 +155,9 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. ([GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
 
 ### Utilities
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
