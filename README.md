@@ -43,6 +43,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ## Software
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Open-source Mac app showing what's playing beside the Dock.
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 - [Ardour](https://ardour.org/) - Digital Audio Workstation (DAW). ([GNU GPLv2](https://ardour.org/copying.html))
