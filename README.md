@@ -203,6 +203,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
+- [FenceCSV](https://todaysworld-com.github.io/fencecsv/) - Free in-browser converters that turn invoices, receipts, statements and tax forms into checked CSV and spreadsheet files, with a totals verification pass on every conversion and no file ever uploaded. ([MIT](https://github.com/Todaysworld-com/fencecsv/blob/main/LICENSE))
 
 ### Web Servers
 
