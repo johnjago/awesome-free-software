@@ -179,6 +179,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Web Applications
 
+- [Charitology Charity OS](https://github.com/theguysaccount/charitology) - Free open-source charity back-office workspace (volunteers, programs, public request forms, grant-period reports, full JSON export) alongside a 31-jurisdiction Global Charity Index and 65 verified free nonprofit software perks. ([MIT](https://github.com/theguysaccount/charitology/blob/main/LICENSE))
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
 - [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE))
