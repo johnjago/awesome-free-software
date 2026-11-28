@@ -50,6 +50,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
+- [StereoKeeper](https://github.com/Avazbek22/StereoKeeper) - Fixes bad Bluetooth headphone sound on Windows. When Call of Duty, Discord or OBS turns on the headset mic, Windows switches to low-quality mono Hands-Free mode; StereoKeeper brings back stereo in one click.
 
 ### Command Line Tools
 
